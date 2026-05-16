@@ -18,7 +18,7 @@ Each section of the site represents a different facet of my practice as a design
 |---|---|
 | 🙋 **Hero** | Name, title, headshot, and links to GitHub, LinkedIn, and email |
 | 📖 **About** | Bio intro and animated marquee |
-| 🎓 **Education** | BA DNID & MS MLIS at the University of Pittsburgh |
+| 🎓 **Education** | BA DNID at the University of Pittsburgh |
 | 🛠️ **Skills** | Design and technical skills in a horizontal-scroll panel |
 | 🔷 **Logofolio** | Animated GIF logo grid |
 | 💼 **Projects** | Tabbed gallery: Design (branding, UX/UI, graphic design, web design) and Development (web dev, other) |
