@@ -1,4 +1,4 @@
-# CASSANDRA GRAY **→ [Live Site](#)** &nbsp;|&nbsp; Design & Development Portfolio
+# CASSANDRA GRAY **→ [Live Site](https://casscadeofgraymatter.github.io/PORTFOLIO/)** &nbsp;|&nbsp; Design & Development Portfolio
 
 > *A personal portfolio showcasing branding, UX/UI, graphic design, writing, and web development work, built from scratch in Pittsburgh, PA.*
 
