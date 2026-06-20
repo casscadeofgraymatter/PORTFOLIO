@@ -1,5 +1,4 @@
 # CASSANDRA GRAY **→ [Live Site](https://casscadeofgraymatter.github.io/PORTFOLIO/)** &nbsp;|&nbsp; Design & Development Portfolio
----
 
 ## Overview
 
