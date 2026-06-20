@@ -48,21 +48,17 @@ personalsite/
 │   └── steelhacks/
 ├── graphic_design/
 │   ├── starline/
-│   ├── steelcitycommonsbrochure/
 │   └── wrapped_fruit/
 ├── ux_ui/
 │   ├── thoughtbubble/
-│   ├── heyroomie/
-│   └── safehood/
 ├── web_design/
-│   ├── fishburgh/
-│   └── pittsburghgrowers/
+│   ├── coming soon!
 ├── web_development/
 │   ├── ufta/
 │   └── pittsburghrevitalizationproject/
 └── tech_other/
     ├── idlecast/
-    └── python(pandas&matplotlib)dataanalysisproject/
+    └── coming soon!
 ```
 
 ---
